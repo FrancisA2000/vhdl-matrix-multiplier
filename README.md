@@ -42,8 +42,8 @@ The system performs matrix multiplication for two signed **4×4 matrices** and d
 ---
 
 ## **📜 Documentation**
-- **[Project Requirements](docs/VHDL final 2024 02 V6.pdf)**: Detailed description of the system requirements, design goals, and implementation plan.
-- **[Final Project Report](docs/FinalProject- התקנים לוגים.pdf)**: Comprehensive report detailing the design, simulation results, synthesis analysis, and conclusions.
+- **[Project Requirements](docs/VHDL_final_2024.pdf)**: Detailed description of the system requirements, design goals, and implementation plan.
+- **[Final Project Report](docs/FinalProject.pdf)**: Comprehensive report detailing the design, simulation results, synthesis analysis, and conclusions.
 
 ---
 
