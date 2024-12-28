@@ -46,14 +46,16 @@ The system performs matrix multiplication for two signed **4×4 matrices** and d
 ### **1. System Block Diagram**
 This diagram provides a high-level overview of the system's architecture, including major modules like the **Data Generator**, **Matrix Multiplier**, and **Main Controller**.
 
-![Block Diagram](assets/block_diagram.png)
+![Matrices Mult Block Diagram](assets/matrices_mult_block_diagram.png)
 
 ---
 
 ### **2. State Machine Diagram**
 The finite state machine (FSM) for the **Main Controller** manages the transitions between modes. Here's a detailed view:
 
-![State Machine Diagram](assets/state_machine_diagram.png)
+![Main State Machine](assets/main_state_machine.png)
+
+![Multiply State Machine](assets/multiply_state_machine.png)
 
 ---
 
