@@ -42,8 +42,8 @@ The system performs matrix multiplication for two signed **4×4 matrices** and d
 ---
 
 ## **📜 Documentation**
-- **[Project Requirements](docs/VHDL final 2024 02 V6.pdf)**: Detailed description of the system requirements, design goals, and implementation plan.
-- **[Final Project Report](docs/FinalProject- התקנים לוגים.pdf)**: Comprehensive report detailing the design, simulation results, synthesis analysis, and conclusions.
+- **[Project Requirements](docs/VHDL_final_2024.pdf)**: Detailed description of the system requirements, design goals, and implementation plan.
+- **[Final Project Report](docs/FinalProject.pdf)**: Comprehensive report detailing the design, simulation results, synthesis analysis, and conclusions.
 
 ---
 
@@ -76,4 +76,11 @@ A snippet of simulation output, showcasing the correct computation of matrix mul
 The project is implemented on the **Altera Cyclone V FPGA development board**. Below is the hardware setup for deployment and testing:
 
 ![Hardware Setup](assets/hardware_setup.png)
+
+---
+
+## **🎥 Demonstration Video**
+Check out the demonstration video for the project in action:
+
+- **[Watch Matrices Multiply Video](assets/Matrices_Multiply.mp4)**: Click to view or download the demo video.
 
