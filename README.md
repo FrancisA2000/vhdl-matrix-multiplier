@@ -83,4 +83,6 @@ The project is implemented on the **Altera Cyclone V FPGA development board**. B
 Check out the demonstration video for the project in action:
 
 - **[Watch Matrices Multiply Video](assets/Matrices_Multiply.mp4)**: Click to view or download the demo video.
+  
+- [![Watch the Video](https://img.youtube.com/vi/htl3920-ROM/0.jpg)](https://www.youtube.com/watch?v=htl3920-ROM)
 
