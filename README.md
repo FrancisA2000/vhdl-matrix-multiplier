@@ -82,5 +82,5 @@ The project is implemented on the **Altera Cyclone V FPGA development board**. B
 ## **🎥 Demonstration Video**
 Check out the demonstration video for the project in action:
 
-- **[Watch Matrices Multiply Video](assets/Matrices Multiply.mp4)**: Click to view or download the demo video.
+- **[Watch Matrices Multiply Video](assets/Matrices_Multiply.mp4)**: Click to view or download the demo video.
 
